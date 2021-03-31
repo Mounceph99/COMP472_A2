@@ -25,7 +25,7 @@ For example, the program would succesfully parse the following 4 puzzles:
 
 - OUTPUT_DIR is the directory where results and statistics files will be outputted to.
 
-From there, `Cell > Run All` will run all the cells. After a succesful execution of the project, files will be created in OUTPUT_DIR.
+From there, `Cell > Run All` will run all the cells. After a succesful execution of the project, files will be created in `OUTPUT_DIR`.
 In particular, two files will be created per solver/algorithm: their solution paths (if found), and their search paths (if a solution was found).
 Additionally, a `statistics.txt` file will also be outputted, containing relevant information to compare the solvers/algorithms executed on the input puzzles.
 
