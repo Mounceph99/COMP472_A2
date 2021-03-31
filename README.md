@@ -1,6 +1,9 @@
+# Github Link
+
+https://github.com/Mounceph99/COMP472_A2
+
 # Requirements
 To run this project, make sure that `Python 3.8` and `jupyter` are installed. 
-
 
 # Running the project
 To run the project, start a Jupyter Notebook instance (run `jupyter notebook` in a terminal from this directory) and open the Notebook in this project.
